@@ -57,9 +57,7 @@ if __name__ == '__main__':
 </picture>
 -->
 
-<h5 align="center"/> 
-  discipline, consistency - and patience.
-</h5>
+##### *discipline, consistency - and patience.*
 
 <!--
 
