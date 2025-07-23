@@ -26,8 +26,8 @@ class RafaelHenriqueSkills:
   def __init__(self):
     self.username = 'rafaelhra'
     self.name = 'Rafael Henrique'
-    self.role = ['Data Science Student']
-    self.code = ['Python, C, C++']
+    self.role = ['Data Science and AI Student']
+    self.code = ['Python, C, C++, SQL']
     self.python_libs = ['Pandas', 'Numpy', 'Matplotlib', 'Scikit-Learn', 'TensorFlow']
     self.tools = ['Docker', 'Kubernets', 'Jupyter', 'Power BI', 'Git', 'VS Code', 'Office']
     self.database = ['PostgreeSQL', 'MySQL']
