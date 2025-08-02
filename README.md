@@ -10,7 +10,7 @@ I just kindly ask you to put a star in this repo. I'll be very happy to know tha
 
 # Rafael Henrique 🌟
 > Hello World! Welcome to my GitHub!👋 I hope you enjoy my projects ;) <br>
-> Data Science & AI ◦ Analytics ◦ MLOps ◦ AI Engineering ◦ Backend ◦ Research
+> Data Science & AI ◦ Analytics ◦ MLOps ◦ AI Engineering ◦ Operational Research ◦ Algorithms & Optmization
 
 <hr>
 
