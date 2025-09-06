@@ -17,7 +17,6 @@ I just kindly ask you to put a star in this repo. I'll be very happy to know tha
 ## 😸 About me:
 - 🎓I'm an undergraduate student in Data Science and Artificial Intelligence at Universidade Federal da Paraíba (UFPB) - João Pessoa, PB / Brazil;
 - ⚡I'm from Brazil, and I've always been curious about what can I do with programming. I like to go beyond everything I do and it makes me an excellent self-taught person. Whenever I'm not solving math lists from college or sleeping, I code some cool stuff here and there. I have a very methodical mindset, which helps me develop projects;
-- 🎵 My favorite hobby is music and I like to play guitar in my free time, things like bossa-nova and classical guitar music. Also, I love reading books, and I write some ideas down when I have time. Furthermore, I love sports and competitions in general, things like running, soccer, calisthenics... whatever makes me move, I'm into it!
 - 🧠 Data is my passion, and I have a goal to develop interesting things and contribute to the AI market in some way, maybe innovating with some startup or becoming a researcher in the area. I see technology as much more than just a career, but also as a cause to be fought for and to make it even more accessible, positively impacting on society's progress.
 
 ## 🧑‍💻 My Skills:
